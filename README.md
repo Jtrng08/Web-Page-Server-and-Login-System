@@ -19,7 +19,7 @@ This project sets up a web server on Ubuntu (latest version) that supports a bus
 - Security Tools: IPTables, Snort, OpenSSH
 - Scripting: Bash shell scripts with sed for configuration automation
 
-#Getting Started
+# Getting Started
 1. Run sudo bash installation.sh to install all necessary packages and services.
 2. Run sudo bash implementation.sh to apply your custom security policies and configurations.
 
